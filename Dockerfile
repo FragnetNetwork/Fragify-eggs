@@ -1,4 +1,4 @@
-FROM        openjdk:16-slim
+FROM        quay.io/fragify/openjdk:16-slim
 
 LABEL       author="Michael Parker" maintainer="ioannis@fragnet.net"
 
